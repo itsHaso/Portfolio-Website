@@ -4,7 +4,7 @@
 
 ### I learned how to better use some of the skills i learned for css to make this webpage.
 
-###![image](https://user-images.githubusercontent.com/117330115/205584698-7b1206b3-ab1d-43ff-9c37-0ffcd38a3ed9.png) screenshot of the webpage when you open it
+![image](https://user-images.githubusercontent.com/117330115/205584698-7b1206b3-ab1d-43ff-9c37-0ffcd38a3ed9.png) screenshot of the webpage when you open it
 
 ### https://itshaso.github.io/Portfolio-Website/ Link to my website
 
