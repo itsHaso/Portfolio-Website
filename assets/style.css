@@ -106,6 +106,7 @@ section {
 .about-border-divider {
 font-size: 20px;
 width: 50%;
+padding-left: 10px;
 }
 
 .contact-info {
